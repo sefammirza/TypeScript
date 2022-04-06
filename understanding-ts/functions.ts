@@ -33,8 +33,8 @@ addAndHandle(10, 20, (result) => {
 /* let someValue : undefined;*/ 
 
 
-let number1: number;
+/*let number1: number;
 number1 = 5;
 const number2 = 2.8;
 const printResult = true;
-const resultPhrase = 'Result is:'; // comment
+const resultPhrase = 'Result is:';*/ // comment
